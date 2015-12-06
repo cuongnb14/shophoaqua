@@ -4,7 +4,7 @@ define('HTTP_SERVER', 'http://localhost/shophoaqua/');
 
 // HTTPS
 define('HTTPS_SERVER', 'http://localhost/shophoaqua/');
-
+sdfds 
 // DIR
 define('DIR_APPLICATION', '/opt/lampp/htdocs/shophoaqua/catalog/');
 define('DIR_SYSTEM', '/opt/lampp/htdocs/shophoaqua/system/');
@@ -26,4 +26,3 @@ define('DB_DATABASE', 'shophoaqua');
 define('DB_PREFIX', 'oc_');
 ?>
 
-sdfsdfsd
