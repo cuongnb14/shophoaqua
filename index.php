@@ -1,4 +1,7 @@
 <?php
+
+sdfsdf
+
 // Version
 define('VERSION', '1.5.6.4');
 
@@ -238,7 +241,6 @@ $controller->dispatch($action, new Action('error/not_found'));
 
 // Output
 $response->output();
-
 Hllo
 
 ?>
