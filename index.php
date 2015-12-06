@@ -1,4 +1,9 @@
 <?php
+
+
+sdf
+
+
 // Version
 define('VERSION', '1.5.6.4');
 
@@ -219,7 +224,7 @@ $registry->set('encryption', new Encryption($config->get('config_encryption')));
 		
 // Front Controller 
 $controller = new Front($registry);
-
+sdfdsf
 // Maintenance Mode
 $controller->addPreAction(new Action('common/maintenance'));
 
@@ -238,4 +243,7 @@ $controller->dispatch($action, new Action('error/not_found'));
 
 // Output
 $response->output();
+Hllo
+
 ?>
+sdfsf
