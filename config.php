@@ -1,7 +1,7 @@
 <?php
 // HTTP
 define('HTTP_SERVER', 'http://localhost/shophoaqua/');
-
+sdfdsf
 // HTTPS
 define('HTTPS_SERVER', 'http://localhost/shophoaqua/');
 
