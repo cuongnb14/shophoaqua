@@ -1,7 +1,6 @@
 <?php
 
-sdfsdf
-sdfưefwef
+sdf
 
 // Version
 define('VERSION', '1.5.6.4');
