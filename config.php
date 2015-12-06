@@ -1,7 +1,7 @@
 <?php
 // HTTP
 define('HTTP_SERVER', 'http://localhost/shophoaqua/');
-
+sdfdsf
 // HTTPS
 define('HTTPS_SERVER', 'http://localhost/shophoaqua/');
 sdfds 
@@ -25,4 +25,7 @@ define('DB_PASSWORD', '');
 define('DB_DATABASE', 'shophoaqua');
 define('DB_PREFIX', 'oc_');
 ?>
+
+
+sdfsdfsd
 
